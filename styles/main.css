@@ -1,0 +1,10 @@
+.header {
+    height: 80px;
+    line-height: 80px;
+}
+.header .logo {
+    display: inline-block;
+    background: url("../images/logo.png") 50% 50% no-repeat;
+    width: 160px;
+    height: 60px;
+}
